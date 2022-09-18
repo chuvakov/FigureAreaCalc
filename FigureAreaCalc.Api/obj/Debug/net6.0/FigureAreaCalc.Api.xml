@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FigureAreaCalc.Api</name>
+    </assembly>
+    <members>
+        <member name="M:FigureAreaCalc.Api.Controllers.CircleController.GetAreaByRadius(System.Double)">
+            <summary>
+            Получение площади круга по радиусу
+            </summary>
+            <param name="radius">Радиус</param>
+            <returns>Возвращаем значение площади</returns>
+            <response code="200">Успешный расчет площади</response>
+            <response code="500">Ошибка сервера</response>
+        </member>
+        <member name="M:FigureAreaCalc.Api.Controllers.CircleController.GetAreaByDiametr(System.Double)">
+            <summary>
+            Получение площади круга по диаметру
+            </summary>
+            <param name="diametr">Диаметр</param>
+            <returns>Возвращаем значение площади</returns>
+            <response code="200">Успешный расчет площади</response>
+            <response code="500">Ошибка сервера</response>
+        </member>
+        <member name="M:FigureAreaCalc.Api.Controllers.TriangleController.GetArea(System.Double,System.Double,System.Double)">
+            <summary>
+            Получение площади треугольника по трем сторонам
+            </summary>
+            <param name="sideA">Сторона A</param>
+            <param name="sideB">Сторона B</param>
+            <param name="sideC">Сторона C</param>
+            <returns>Возвращаем значение площади и является ли треугольник прямоугольным</returns>
+            <response code="200">Успешный расчет площади</response>
+            <response code="500">Ошибка сервера</response>
+        </member>
+    </members>
+</doc>

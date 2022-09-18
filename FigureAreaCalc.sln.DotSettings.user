@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0ae9257a_002D3729_002D44a5_002D8d04_002D918c95cbe218/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetArea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Tests" Presentation="&amp;lt;FigureAreaCalc.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b39fdaf_002D9e0d_002D413a_002Da0b9_002D581ed1a0a51e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetArea_Circle" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::C5FBDA56-6336-4BE5-93F2-BD9CB7BDB23C::net6.0::FigureAreaCalc.Tests.Tests.CalcService_Tests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::C5FBDA56-6336-4BE5-93F2-BD9CB7BDB23C::net6.0::FigureAreaCalc.Tests.Tests.Circle_Tests.GetArea&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
