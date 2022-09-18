@@ -2,7 +2,7 @@
 
 ### Данный проект представляет собой реализацию тестового задания
 
-http://www.figure-calc.alex-chuvakov.ru/
+www.figure-calc.alex-chuvakov.ru
 
 Задание:
 
