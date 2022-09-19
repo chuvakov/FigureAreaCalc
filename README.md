@@ -2,7 +2,7 @@
 
 ### Данный проект представляет собой реализацию тестового задания
 
-www.figure-calc.alex-chuvakov.ru
+www.figure-calc.alex-chuvakov.ru/swagger/index.html
 
 Задание:
 
