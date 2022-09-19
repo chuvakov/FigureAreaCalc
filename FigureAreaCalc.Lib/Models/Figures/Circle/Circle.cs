@@ -9,10 +9,6 @@ public class Circle : Figure
         _radius = radius;
     }
     
-    /// <summary>
-    /// Расчитывает площадь круга
-    /// </summary>
-    /// <returns>Возвращаем значение площади круга</returns>
     public override CalcResponse GetArea()
     {
         Area = Math.PI * Math.Pow(_radius, 2);

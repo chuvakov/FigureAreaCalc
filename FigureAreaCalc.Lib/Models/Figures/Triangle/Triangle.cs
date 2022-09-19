@@ -17,10 +17,6 @@ public class Triangle : Figure
         _halfPerimeter = Perimeter / 2;
     }
     
-    /// <summary>
-    /// Расчитывает площадь треугольника
-    /// </summary>
-    /// <returns>Возвращаем значение площади и является ли треугольник прямоугольным</returns>
     public override CalcResponse GetArea()
     {
         Area = Math.Sqrt(_halfPerimeter * (_halfPerimeter - _sideA) * (_halfPerimeter - _sideB) * (_halfPerimeter - _sideC));
@@ -28,7 +24,6 @@ public class Triangle : Figure
         return new TriangleCalcResponse(area: Math.Round(Area, 6),
             isRectangular: CheckRectangular());
     }
-    
     
     /// <summary>
     /// Вспомогательный метод для проверки является ли треугольник прямоугольным
