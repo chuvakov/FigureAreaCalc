@@ -17,7 +17,8 @@ ___
 * Вычисление площади фигуры без знания типа фигуры в compile-time
 * Проверку на то, является ли треугольник прямоугольным
 
-Решение: www.figure-calc.alex-chuvakov.ru/swagger/index.html
+Решение лежит в репозитории.
+Проект на моем домашнем сервере: www.figure-calc.alex-chuvakov.ru/swagger/index.html
 
 ___
 
