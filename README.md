@@ -17,7 +17,7 @@ www.figure-calc.alex-chuvakov.ru/swagger/index.html
 
 Решение: www.figure-calc.alex-chuvakov.ru/swagger/index.html
 
-___________________________________
+___
 
 Задание №2:
 
