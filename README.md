@@ -28,9 +28,9 @@ ___
 Решение:
 
 ```
-select p.name, c.name
-from products as p
-left join productscategories as pc on p.id = pc.productid
-left join categories as c on pc.categoryid = c.id;
+SELECT p.Name, c.Name 
+FROM Products p 
+LEFT JOIN CategoryProducts cp ON cp.ProductId = p.Id 
+LEFT JOIN Categories c ON c.Id = cp.CategoryId;
 ```
 ___
