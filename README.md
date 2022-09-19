@@ -27,8 +27,8 @@ ___
 
 Решение:
 
-select p.name, c.name /n
-from products as p /n
-left join productscategories as pc on p.id = pc.productid /n
+select p.name, c.name /t
+from products as p /t
+left join productscategories as pc on p.id = pc.productid /t
 left join categories as c on pc.categoryid = c.id;
 ___
