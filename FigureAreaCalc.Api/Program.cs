@@ -20,7 +20,7 @@ builder.Services.AddSwaggerGen(options =>
         Contact = new OpenApiContact()
         {
             Name = "Тестовое задание",
-            Url = new Uri("/")
+            Url = new Uri("https://github.com/chuvakov/FigureAreaCalc")
         }
     });
     
