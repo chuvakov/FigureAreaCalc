@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj": {}
+    "/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj": {}
   },
   "projects": {
-    "/Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj": {
+    "/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj",
+        "projectUniqueName": "/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj",
         "projectName": "FigureAreaCalc.Lib",
-        "projectPath": "/Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj",
+        "projectPath": "/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/FigureAreaCalc.Lib.csproj",
         "packagesPath": "/Users/aleksandr/.nuget/packages/",
-        "outputPath": "/Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/obj/",
+        "outputPath": "/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksandr/.nuget/NuGet/NuGet.Config"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/aleksandr/.dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
