@@ -13,7 +13,7 @@ public class CircleController : FigureAreaCalcController
     {
         _calcService = circleService;
     }
-    
+
     /// <summary>
     /// Получение площади круга по радиусу
     /// </summary>
@@ -22,6 +22,8 @@ public class CircleController : FigureAreaCalcController
     /// <response code="200">Успешный расчет площади</response>
     /// <response code="500">Ошибка сервера</response>
     [HttpGet("[action]")]
+    [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(CalcResponse))]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
     public IActionResult GetAreaByRadius(double radius)
     {
         try
@@ -33,7 +35,7 @@ public class CircleController : FigureAreaCalcController
             return Problem(e.Message);
         }
     }
-    
+
     /// <summary>
     /// Получение площади круга по диаметру
     /// </summary>
@@ -42,6 +44,8 @@ public class CircleController : FigureAreaCalcController
     /// <response code="200">Успешный расчет площади</response>
     /// <response code="500">Ошибка сервера</response>
     [HttpGet("[action]")]
+    [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(CalcResponse))]
+    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
     public IActionResult GetAreaByDiametr(double diametr)
     {
         try

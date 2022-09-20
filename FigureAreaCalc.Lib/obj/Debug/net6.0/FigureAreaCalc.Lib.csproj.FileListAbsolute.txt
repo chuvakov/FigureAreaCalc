@@ -10,3 +10,15 @@
 /Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/refint/FigureAreaCalc.Lib.dll
 /Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.pdb
 /Users/aleksandr/Yandex.Disk.localized/My projects C# 2/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/ref/FigureAreaCalc.Lib.dll
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/bin/Debug/net6.0/FigureAreaCalc.Lib.deps.json
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/bin/Debug/net6.0/FigureAreaCalc.Lib.dll
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/bin/Debug/net6.0/FigureAreaCalc.Lib.pdb
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.csproj.AssemblyReference.cache
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.AssemblyInfoInputs.cache
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.AssemblyInfo.cs
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.dll
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/refint/FigureAreaCalc.Lib.dll
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/FigureAreaCalc.Lib.pdb
+/Users/aleksandr/Projects/FigureAreaCalc/FigureAreaCalc.Lib/obj/Debug/net6.0/ref/FigureAreaCalc.Lib.dll
