@@ -1,9 +1,6 @@
 # FigureAreaCalc - Библиотека и Api расчета площадей фигур
 
 ### Данный проект представляет собой реализацию тестового задания
-
-www.figure-calc.alex-chuvakov.ru/swagger/index.html
-
 ___
 
 Задание №1:
